@@ -5,3 +5,4 @@ add code integirty logic, finish Tues
 check existing and appearance, integrate other key parts
 check runtime, memory, resource demands
 dynamic/parallel processing, licenses
+check on wed/thur
