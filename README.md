@@ -7,3 +7,4 @@ check runtime, memory, resource demands
 dynamic/parallel processing, licenses
 check on wed/thur, finetune
 upload thur
+debug and runtime
